@@ -95,6 +95,12 @@
         </ul>
     </section>
 
+    <section id="call-to-action">
+        <h2>Ready to Start Your Journey?</h2>
+        <p>Discover how John Thornhill’s Online Success Coaching can transform your digital business.</p>
+        <a href="https://onlinesuccesscoaching.org" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#007BFF; color:#FFF; text-decoration:none; border-radius:5px; font-size:16px;">LEARN MORE CLICK HERE</a>
+    </section>
+
     <footer>
         <p>© 2025 Online Success Coaching. All Rights Reserved.</p>
     </footer>
